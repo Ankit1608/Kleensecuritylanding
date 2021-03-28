@@ -1,0 +1,24 @@
+.home-section {
+  height: 100vh;
+  display: flex;
+  background-image: url("./images/background.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+.logo-home {
+  height: 120px;
+}
+
+@media screen and (max-width: 1200px) {
+  .logo-home {
+    height: 100px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .logo-home {
+    height: 80px;
+  }
+}

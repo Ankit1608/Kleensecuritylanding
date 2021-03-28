@@ -1,0 +1,123 @@
+@font-face {
+  src: url("./assets/BebasNeue-Bold.ttf");
+  font-family: bebasneue-bold;
+}
+@font-face {
+  src: url("./assets/Poppins-Regular.ttf");
+  font-family: poppins-regular;
+}
+@font-face {
+  src: url("./assets/Montserrat-Regular.ttf");
+  font-family: montserrat-regular;
+}
+
+.animated-page-container {
+  width: 100%;
+  background-color: #000000;
+  padding: 100px 0px;
+}
+
+.animated-page-title-container {
+  padding: 120px 50px;
+}
+
+.animated-page-title {
+  margin: 0 auto;
+  text-align: center;
+  color: #ff4d15;
+  font-size: 40px;
+  font-family: bebasneue-bold, sans-serif;
+  max-width: 500px;
+  margin-bottom: 25px;
+}
+
+.animated-page-subtitle {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 16px;
+  font-family: poppins-regular, sans-serif;
+  color: #ffffff;
+  max-width: 600px;
+}
+
+.animated-container {
+  color: #ffffff;
+  font-size: 20px;
+  display: inline;
+  position: relative;
+  animation-name: moveText;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+}
+
+.animated-container-background {
+  width: 100%;
+  background-image: url("./images/backgroundline.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #000000;
+}
+
+.animated-page-parts-container {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 15px;
+}
+
+.animated-page-parts-text {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: montserrat-regular, sans-serif;
+}
+
+.animated-page-parts-large {
+  font-size: 72px;
+  font-family: bebasneue-bold;
+  color: #686868;
+}
+
+@keyframes moveText {
+  0% {
+    left: 0%;
+  }
+  14% {
+    left: 10%;
+  }
+  29% {
+    left: 18%;
+  }
+  43% {
+    left: 40%;
+  }
+  57% {
+    left: 48%;
+  }
+  71% {
+    left: 75%;
+  }
+
+  85% {
+    left: 83%;
+  }
+  100% {
+    left: 97%;
+  }
+}
+@media screen and (max-width: 650px) {
+  .animated-page-title {
+    font-size: 30px;
+  }
+  .animated-page-subtitle {
+    font-size: 12px;
+  }
+  .animated-page-parts-large {
+    font-size: 30px;
+  }
+  .animated-page-parts-text {
+    font-size: 12px;
+  }
+  .animated-container-img {
+    height: 15px;
+  }
+}

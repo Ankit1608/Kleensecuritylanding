@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b339f54b.chunk.css",
+    "main.js": "/static/js/main.e09d762e.chunk.js",
+    "main.js.map": "/static/js/main.e09d762e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e1166ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e1166ac.js.map",
+    "static/js/2.21eb6dcd.chunk.js": "/static/js/2.21eb6dcd.chunk.js",
+    "static/js/2.21eb6dcd.chunk.js.map": "/static/js/2.21eb6dcd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b339f54b.chunk.css.map": "/static/css/main.b339f54b.chunk.css.map",
+    "static/js/2.21eb6dcd.chunk.js.LICENSE.txt": "/static/js/2.21eb6dcd.chunk.js.LICENSE.txt",
+    "static/media/Singleplatform.css": "/static/media/BebasNeue-Bold.0fff693e.ttf",
+    "static/media/Footer.css": "/static/media/Poppins-Regular.8081832f.ttf",
+    "static/media/academy.397c6859.gif": "/static/media/academy.397c6859.gif",
+    "static/media/access.55fb6c4b.png": "/static/media/access.55fb6c4b.png",
+    "static/media/Home.css": "/static/media/background.cfed0a2e.gif",
+    "static/media/beginnerfriendly.bd5ecc39.png": "/static/media/beginnerfriendly.bd5ecc39.png",
+    "static/media/ctfprivate.41739560.gif": "/static/media/ctfprivate.41739560.gif",
+    "static/media/dedicatedcourse.58637fdd.png": "/static/media/dedicatedcourse.58637fdd.png",
+    "static/media/hackarena.0c258b4a.gif": "/static/media/hackarena.0c258b4a.gif",
+    "static/media/hackercommunity.a54f3fc2.png": "/static/media/hackercommunity.a54f3fc2.png",
+    "static/media/logo.55005625.png": "/static/media/logo.55005625.png",
+    "static/media/mainlogo.80226170.png": "/static/media/mainlogo.80226170.png",
+    "static/media/simulatedvpat.58e3e795.png": "/static/media/simulatedvpat.58e3e795.png",
+    "static/media/support.69f31ed1.png": "/static/media/support.69f31ed1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e1166ac.js",
+    "static/js/2.21eb6dcd.chunk.js",
+    "static/css/main.b339f54b.chunk.css",
+    "static/js/main.e09d762e.chunk.js"
+  ]
+}
